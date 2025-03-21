@@ -1,2 +1,2 @@
-# data_preprossesing
-De B3 a parquet
+# Data preprocessing for SSMdata & SSMviewer
+A.K.A: de la B3 a los parquets
