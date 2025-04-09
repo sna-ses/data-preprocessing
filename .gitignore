@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# too many intermediate files (~650k)
+data/abstracts_nouns/
+
+# some big files
+data/raw/
