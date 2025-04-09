@@ -1,2 +1,2 @@
 # Data preprocessing for SSMdata & SSMviewer
-A.K.A: de la B3 a los parquets
+This repository contains the scripts to turn the raw dataframe (AKA `b3_joined`) into relational tables.
