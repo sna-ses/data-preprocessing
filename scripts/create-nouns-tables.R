@@ -6,8 +6,10 @@ library(stringr)
 library(rlang)
 library(tidyr)
 
-source("global.R") # para cargar el objeto con los quinquenios
 source("R/stopwords.R") # para cargar el objeto con las stopwords
+
+opts_quinquenios <- c("1990-1994", "1995-1999", "2000-2004", "2005-2009",
+                      "2010-2014", "2015-2019", "2020-2021")
 
 # Guardamos las rutas de las tablas con todos los nouns de cada field
 
